@@ -9,17 +9,17 @@ Voici les résultats d’exécution :
 
 Exécution D'EXERCICE 1 : 
 
-![Exécution 1](screenshots/Exercice1.png)
-![Exécution 11](screenshots/Exercice11.png)
+![Exécution 1](screenchots/Exercice1.png)
+![Exécution 11](screenchots/Exercice11.png)
 
 Exécution D'EXERCICE 2 :
 
-![Exécution 2](screenshots/Exercice2.png)
+![Exécution 2](screenchots/Exercice2.png)
 
 Exécution D'EXERCICE 3 :
 
-![Exécution 3](screenshots/Exercice3.png)
-![Exécution 31](screenshots/Exercice31.png)
+![Exécution 3](screenchots/Exercice3.png)
+![Exécution 31](screenchots/Exercice31.png)
 ---
 
 ## ⚙️ Compilation
